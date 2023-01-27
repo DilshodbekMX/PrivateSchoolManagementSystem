@@ -1,3 +1,3 @@
-Django and React based
+### Django and React based
 ## PrivateSchoolManagementSystem
-#Uncompleted
+# Uncompleted
